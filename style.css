@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #282c34;
+    background: linear-gradient(135deg, #000000, #0f4c75, #3282b8, #bbe1fa);
     color: white;
     font-family: Arial, sans-serif;
     text-align: center;
